@@ -1,0 +1,54 @@
+{
+    "info": {
+        "description": null,
+        "version": null,
+        "contributor": null,
+        "date_created": "2023-02-03 16:46:51.204591"
+    },
+    "licenses": [
+        {
+            "id": 0,
+            "name": null
+        }
+    ],
+    "images": [],
+    "type": "instances",
+    "annotations": [],
+    "categories": [
+        {
+            "supercategory": null,
+            "id": 0,
+            "name": "_background_"
+        },
+        {
+            "supercategory": null,
+            "id": 1,
+            "name": "1"
+        },
+        {
+            "supercategory": null,
+            "id": 2,
+            "name": "2"
+        },
+        {
+            "supercategory": null,
+            "id": 3,
+            "name": "3"
+        },
+        {
+            "supercategory": null,
+            "id": 4,
+            "name": "4"
+        },
+        {
+            "supercategory": null,
+            "id": 5,
+            "name": "5"
+        },
+        {
+            "supercategory": null,
+            "id": 6,
+            "name": "6"
+        }
+    ]
+}
